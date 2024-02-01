@@ -4,7 +4,7 @@ const animal = {
     Nombre: "Tigre",
     Tipo: "Felino",
     Hábitat: "Selva",
-    Edad: 5, 
+    Edad: 7, 
     Color: "ColorDelAnimal"
 };
 
