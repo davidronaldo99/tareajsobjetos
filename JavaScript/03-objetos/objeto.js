@@ -5,7 +5,7 @@ const animal = {
     Tipo: "Felino",
     Hábitat: "Selva",
     Edad: 7, 
-    Color: "ColorDelAnimal"
+    Color: "Naranja con rayas negras"
 };
 
 
